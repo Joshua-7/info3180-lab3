@@ -1,3 +1,61 @@
 body {
     padding-top: 5rem;
 }
+
+.nme
+{
+    width: 500px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.eml
+{
+    width: 500px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.sbj
+{
+    width: 500px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.mess
+{
+    width: 500px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.red
+{
+    color: red;
+    padding-left: 80px;
+    margin-top: -30px;
+}
+
+.form-group
+{
+    font-size: 20px;
+}
+
+.Instruct
+{
+    font-size: 24px;
+}
+
+.btn
+{
+    font: size 20px;
+    background-color: rgb(31, 107, 207);
+    color: white;
+    border-radius:10px;
+    width: 100px;
+}
